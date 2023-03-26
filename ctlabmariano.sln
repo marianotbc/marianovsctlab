@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ctlabmariano", "ctlabmariano\ctlabmariano.csproj", "{481C2980-29E4-4CF8-861E-F4E3C06FFCCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{481C2980-29E4-4CF8-861E-F4E3C06FFCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481C2980-29E4-4CF8-861E-F4E3C06FFCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481C2980-29E4-4CF8-861E-F4E3C06FFCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481C2980-29E4-4CF8-861E-F4E3C06FFCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C97E83C6-441C-4D17-A9A7-B0544DBADF40}
+	EndGlobalSection
+EndGlobal
